@@ -55,7 +55,7 @@ com.example.appname/
 
 ## 📦 Dependencies
 
-```gradle
+gradle
 // Retrofit
 implementation 'com.squareup.retrofit2:retrofit:2.9.0'
 implementation 'com.squareup.retrofit2:converter-gson:2.9.0'
@@ -101,7 +101,5 @@ Kotlin & Jetpack Compose Specialist
 ## 📃 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-
 
 Just paste it in your `README.md` — done!

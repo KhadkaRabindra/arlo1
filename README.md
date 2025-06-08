@@ -77,7 +77,7 @@ implementation 'androidx.recyclerview:recyclerview:1.3.1'
 
 
 
-🔧 Setup Instructions
+## 🔧 Setup Instructions
 
 Clone the repo
 
@@ -89,17 +89,16 @@ cd mvvm-retrofit-hilt-sample
 4. Run on emulator or device
 
 
-📌 API Used
+## 📌 API Used
 
 JSONPlaceholder Posts API
 
-✍️ Author
+## ✍️ Author
 
 Rabindra
-Upwork Android Freelancer
 Kotlin & Jetpack Compose Specialist
 
-📃 License
+## 📃 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 

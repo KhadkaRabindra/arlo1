@@ -81,7 +81,7 @@ implementation 'androidx.recyclerview:recyclerview:1.3.1'
 
 Clone the repo
 
-git clone https://github.com/your-username/mvvm-retrofit-hilt-sample.git
+git clone https://github.com/KhadkaRabindra/arlo1
 cd mvvm-retrofit-hilt-sample
 
 2. Open in Android Studio
